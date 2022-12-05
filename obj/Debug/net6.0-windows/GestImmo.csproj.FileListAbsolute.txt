@@ -1,0 +1,297 @@
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.exe
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.deps.json
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.runtimeconfig.json
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.pdb
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Humanizer.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.AssemblyReference.cache
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.g.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\App.g.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.cache
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.lref
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.baml
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.g.resources
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.GeneratedMSBuildEditorConfig.editorconfig
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfoInputs.cache
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfo.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CoreCompileInputs.cache
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CopyComplete
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\refint\GestImmo.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.pdb
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.genruntimeconfig.cache
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\ref\GestImmo.dll
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.g.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.g.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.g.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.g.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.g.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.baml
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.baml
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.baml
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.baml
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.baml
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.g.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.baml
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.g.cs
+P:\--2eme Année--\SLAM\POO\Wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.baml
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.exe
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.deps.json
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.runtimeconfig.json
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.pdb
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Humanizer.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.dll
+D:\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.AssemblyReference.cache
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\App.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.cache
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.lref
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.g.resources
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfoInputs.cache
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfo.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CoreCompileInputs.cache
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CopyComplete
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.dll
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\refint\GestImmo.dll
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.pdb
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.genruntimeconfig.cache
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\ref\GestImmo.dll
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.baml
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.g.cs
+D:\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.exe
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.deps.json
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.runtimeconfig.json
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\ref\GestImmo.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.pdb
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.AssemblyReference.cache
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.cache
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.lref
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.baml
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.g.resources
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfoInputs.cache
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfo.cs
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CoreCompileInputs.cache
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CopyComplete
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\ref\GestImmo.dll
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.pdb
+C:\Users\obyss\Desktop\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.genruntimeconfig.cache
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.AssemblyReference.cache
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\App.g.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.cache
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.lref
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.exe
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.deps.json
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.runtimeconfig.json
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.pdb
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Humanizer.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.baml
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.g.resources
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.GeneratedMSBuildEditorConfig.editorconfig
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfoInputs.cache
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfo.cs
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CoreCompileInputs.cache
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CopyComplete
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\refint\GestImmo.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.pdb
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.genruntimeconfig.cache
+P:\2_anee\3-novembre\GestImmo\GestImmo\obj\Debug\net6.0-windows\ref\GestImmo.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\System.Text.Json.dll
+P:\2_anee\3-novembre\GestImmo\GestImmo\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.exe
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.deps.json
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.runtimeconfig.json
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\GestImmo.pdb
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Humanizer.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\System.Text.Json.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.AssemblyReference.cache
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\App.g.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.cache
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo_MarkupCompile.lref
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\MainWindow.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\BienView.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\HomeView.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\NavigationView.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PrestataireView.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\PretView.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ajouterBien.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.baml
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.g.resources
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.GeneratedMSBuildEditorConfig.editorconfig
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfoInputs.cache
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.AssemblyInfo.cs
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CoreCompileInputs.cache
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.csproj.CopyComplete
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\refint\GestImmo.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.pdb
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\GestImmo.genruntimeconfig.cache
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\obj\Debug\net6.0-windows\ref\GestImmo.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Serilog.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Serilog.Sinks.Console.dll
+P:\2_anee\2-octobre\slam\wpf\GestImmo\GestImmo\bin\Debug\net6.0-windows\Serilog.Sinks.File.dll
