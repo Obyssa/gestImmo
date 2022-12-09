@@ -1,0 +1,22 @@
+﻿<Page x:Class="GestImmo.Views.Forms.GererBienForm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GestImmo.Views.Forms"
+      mc:Ignorable="d" 
+      d:DesignHeight="430" d:DesignWidth="390"
+      Title="GererBienForm">
+
+    <Grid>
+
+        <Frame Content="" HorizontalAlignment="Left" Height="82" VerticalAlignment="Top" Width="364"/>
+
+        <ComboBox x:Name="cbBoxBien" HorizontalAlignment="Left" Height="28" Margin="10,27,0,0" VerticalAlignment="Top" Width="194" SelectionChanged="cbBoxBien_SelectionChanged">
+            <ComboBoxItem Content="Box"/>
+            <ComboBoxItem Content="Maison"/>
+            <ComboBoxItem Content="Appartement"/>
+        </ComboBox>
+        <Frame x:Name="frmAjout" Content="" HorizontalAlignment="Left" Height="314" VerticalAlignment="Center" Width="364" Margin="10,0,0,0" />
+    </Grid>
+</Page>
