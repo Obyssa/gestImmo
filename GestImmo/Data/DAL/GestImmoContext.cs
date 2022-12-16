@@ -6,6 +6,7 @@ using System.Linq;
 using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
+using Serilog;
 
 namespace GestImmo.Data.DAL
 {
@@ -23,8 +24,10 @@ namespace GestImmo.Data.DAL
 
         public DbSet<Prestataire> Prestataires { get; set; }
 
+        
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseNpgsql("Host=localhost;Database=gestImmo;Username=postgres;Password=postgres");
+       => optionsBuilder.UseNpgsql("Host=localhost;Database=gestImmo;Username=postgres;Password=postgres");
+        
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

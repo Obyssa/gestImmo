@@ -16,6 +16,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Serilog;
 
 namespace GestImmo.Views.SubViews
 {
@@ -40,7 +41,8 @@ namespace GestImmo.Views.SubViews
                 Bien unbien = new Box(txtBoxNom.Text, int.Parse(txtBoxValeur.Text), txtBoxAdresse.Text, int.Parse(txtBoxSurface.Text));
                 GestImmoContext ctx = GestImmoContext.getInstance();
                 ctx.Biens.Add(unbien);
-                ctx.SaveChanges();   
+                ctx.SaveChanges();
+                Log.Information("Nouveau box crée");
             }
             else
             {

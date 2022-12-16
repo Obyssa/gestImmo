@@ -11,6 +11,8 @@ namespace GestImmo.Models
 
         public DateTime DateDebut { get; set; }
 
+        public DateTime DateBailEnCours { get; set; }
+
         public DateTime DateFin { get; set; }
 
         public List<Locataire> Locataires { get; set; }
@@ -20,12 +22,13 @@ namespace GestImmo.Models
 
         }
 
-        public Bail(int loyer, DateTime dateDebut, DateTime dateFin)
+        public Bail(int loyer, DateTime dateBailEnCours, DateTime dateDebut, DateTime dateFin)
         {
             this.Loyer = loyer;
             this.DateDebut = dateDebut;
             this.DateFin = dateFin;
             this.Locataires = new List<Locataire>();
+            this.DateBailEnCours = dateBailEnCours;
         }
     }
 }

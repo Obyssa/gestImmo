@@ -22,31 +22,33 @@ namespace GestImmo.Views.Forms
     /// </summary>
     public partial class GererBienForm : Page
     {
+        
         private iObserver obs;
         public GererBienForm(iObserver obs)
         {
             InitializeComponent();
             this.obs = obs;
         }
+        
         private void cbBoxBien_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (cbBoxBien.SelectedIndex == 0)
             {
                 ajouterBien box = new ajouterBien();
                 box.Observers.Add(this.obs);
-                this.frmAjout.Navigate(new ajouterBien());
+                this.frmAjout.Navigate(box);
             }
             if (cbBoxBien.SelectedIndex == 1)
             {
                 ajouterMaison maison = new ajouterMaison();
                 maison.Observers.Add(this.obs);
-                this.frmAjout.Navigate(new ajouterMaison());
+                this.frmAjout.Navigate(maison);
             }
             if (cbBoxBien.SelectedIndex == 2)
             {
                 ajouterAppartement appartement = new ajouterAppartement();
                 appartement.Observers.Add(this.obs);
-                this.frmAjout.Navigate(new ajouterAppartement());
+                this.frmAjout.Navigate(appartement);
             }
         }
     }

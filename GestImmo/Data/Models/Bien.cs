@@ -27,6 +27,29 @@ namespace GestImmo.Models
             this.Surface = surface;
             this.Bails = new List<Bail>();
         }
+        public int calculerRentabiliteNetMensuel()
+        {
+            
+            int montantPret = 0;
+            int loyer = 0;
+
+            if (this.Pret != null)
+            {
+                montantPret = this.Pret.mensualite;
+            }
+            if (this.Bails.Count > 0)
+            {
+                foreach (Bail bail in this.Bails)
+                {
+                    if (bail.DateFin == bail.DateBailEnCours)
+                    {
+                        loyer = bail.Loyer;
+                        break;
+                    }
+                }
+            }
+            return loyer - montantPret;
+        }
     }
 }
 

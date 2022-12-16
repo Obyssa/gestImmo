@@ -23,52 +23,32 @@ namespace GestImmo.Views
     /// <summary>
     /// Logique d'interaction pour BienView.xaml
     /// </summary>
-    public partial class BienView : Page, iObserver
+    public partial class BienView : Page
     {
         GestImmoContext ctx = GestImmoContext.getInstance();
+        private ListViewBien listViewBien;
         public BienView()
         {
             InitializeComponent();
-            this.refreshList();
+            this.listViewBien = new ListViewBien();
+            this.frmList.Navigate(this.listViewBien);
         }
-        void refreshList()
-        {
-            GestImmoContext ctx = GestImmoContext.getInstance();
-            this.ListViewBien.Items.Clear();
-            ///Bien unbien = new Box("Oui", 50, "abc", 50);
-            ///gestImmo.Biens.Add(unbien);
-            foreach (Bien bien in ctx.Biens)
-            {
-                this.ListViewBien.Items.Add(bien.Nom);
-            }
-        }
-        public void update()
-        {
-            refreshList();
-        }
+        
+        
+        
         private void btnAjouter_Click(object sender, RoutedEventArgs e)
         {
-            this.frmAutre.Navigate(new BienView());
+            this.frmAutre.Navigate(new GererBienForm(this.listViewBien));
         }
 
 
 
-        /*private void ListViewBien_DoubleClick(object sender, MouseButtonEventArgs e)
+        private void ListView_Click(object sender, MouseButtonEventArgs e)
         {
             ModifierBien objModifierBien = new ModifierBien();
-            this.frmAutre.Navigate(objModifierBien);
-            string az = (string)ListViewBien.SelectedItems[0];
-            foreach (Bien bien in ctx.Biens)
-            {
-                if (bien.Nom == az)
-                {
-                    objModifierBien.txtBoxNom.Text = bien.Nom;
-                    objModifierBien.txtBoxValeur.Text = (bien.Valeur).ToString();
-                    objModifierBien.txtBoxAdresse.Text = bien.Adresse;
-                    objModifierBien.txtBoxSurface.Text = (bien.Surface).ToString();
-                }
-            }
-        }*/
+            this.frmAutre.Navigate(new ModifierBien());
+            
+        }
     }
         
 }

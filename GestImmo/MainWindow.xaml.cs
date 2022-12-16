@@ -16,6 +16,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Serilog;
 
 namespace GestImmo
 {
@@ -28,8 +29,22 @@ namespace GestImmo
         {
             InitializeComponent();
             this.Content = new NavigationView();
+        }
+        class Program
+        {
+            /*
+            private static void Main()
+            {
+                    using var log = new LoggerConfiguration()
+                    .MinimumLevel.Debug()
+                    .WriteTo.Console()
+                    .WriteTo.File("Gestimmo/log.txt", rollingInterval: RollingInterval.Day)
+                    .CreateLogger();
 
-
+            }
+            */
         }
     }
 }
+    
+

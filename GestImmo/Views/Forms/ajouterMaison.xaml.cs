@@ -15,6 +15,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Serilog;
 
 namespace GestImmo.Views.Forms
 {
@@ -37,7 +38,7 @@ namespace GestImmo.Views.Forms
                 GestImmoContext ctx = GestImmoContext.getInstance();
                 ctx.Biens.Add(uneMaison);
                 ctx.SaveChanges();
-
+                Log.Information("Nouvel maison crée");
             }
             else
             {

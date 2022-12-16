@@ -35,6 +35,7 @@ namespace GestImmo.Models
             if (diffMois < this.duree)
             {
                 capitalRestant = (this.duree - diffMois) * mensualite;
+
             }
 
             return capitalRestant;

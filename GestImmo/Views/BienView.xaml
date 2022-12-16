@@ -12,21 +12,7 @@
 
     <Grid>
         <Frame x:Name="frmAutre" Content="" HorizontalAlignment="Left" Height="430" Margin="400,20,0,0" VerticalAlignment="Top" Width="390"/>
-        <ListView x:Name="ListViewBien" HorizontalAlignment="Left" Height="250" Margin="51,52,0,0" VerticalAlignment="Top" Width="231" d:ItemsSource="{d:SampleData ItemCount=5}" RenderTransformOrigin="0.5,0.5" >
-            <ListView.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform AngleX="-0.198"/>
-                    <RotateTransform/>
-                    <TranslateTransform X="-0.611"/>
-                </TransformGroup>
-            </ListView.RenderTransform>
-            <ListView.View>
-                <GridView>
-                    <GridViewColumn/>
-                </GridView>
-            </ListView.View>
-        </ListView>
+        <Frame x:Name="frmList" Content="" HorizontalAlignment="Left" Height="430" Margin="0,20,0,0" VerticalAlignment="Top" Width="390"/>
         <Label x:Name="lblBiens" Content="Mes Biens" HorizontalAlignment="Left" Height="35" Margin="65,26,0,0" VerticalAlignment="Top" Width="177" FontWeight="Bold"/>
         <Button x:Name="btnAjouter" Content="Ajouter" HorizontalAlignment="Left" Margin="322,138,0,0" VerticalAlignment="Top" Width="63" Click="btnAjouter_Click" Height="32"/>
 
