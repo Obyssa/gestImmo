@@ -51,5 +51,7 @@ namespace GestImmo.Views.Forms
                 this.frmAjout.Navigate(appartement);
             }
         }
+
+       
     }
 }

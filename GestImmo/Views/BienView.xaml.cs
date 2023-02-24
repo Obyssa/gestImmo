@@ -49,6 +49,7 @@ namespace GestImmo.Views
             this.frmAutre.Navigate(new ModifierBien());
             
         }
+
     }
         
 }

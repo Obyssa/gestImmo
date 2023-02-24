@@ -5,11 +5,11 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:GestImmo.Views.SubViews"
       mc:Ignorable="d" 
-      d:DesignHeight="430" d:DesignWidth="390"
+      d:DesignHeight="468" d:DesignWidth="453"
       Title="ListViewBien">
 
     <Grid>
-        <ListView x:Name="ListView" HorizontalAlignment="Left" Height="250" Margin="58,91,0,0" VerticalAlignment="Top" Width="231" d:ItemsSource="{d:SampleData ItemCount=5}" RenderTransformOrigin="0.5,0.5" SelectionChanged="ListView_SelectionChanged">
+        <ListView x:Name="ListView" HorizontalAlignment="Left" Height="430" VerticalAlignment="Top" Width="395" d:ItemsSource="{d:SampleData ItemCount=5}" RenderTransformOrigin="0.5,0.5" Margin="23,0,0,0" >
             <ListView.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -20,9 +20,16 @@
             </ListView.RenderTransform>
             <ListView.View>
                 <GridView>
-                    <GridViewColumn/>
+                    <GridViewColumn Header="Nom" DisplayMemberBinding="{Binding Nom}" Width="133"/>
+                    <GridViewColumn Header="Surface" DisplayMemberBinding="{Binding Surface,StringFormat={}{0} m2}" Width="133"/>
+                    <GridViewColumn Header="Valeur" DisplayMemberBinding="{Binding Valeur, StringFormat={}{0} €}" Width="133" />
                 </GridView>
             </ListView.View>
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <EventSetter Event="PreviewMouseLeftButtonDown" Handler="ListViewItem_PreviewMouseLeftButtonDown" />
+                    </Style>
+                </ListView.ItemContainerStyle>
         </ListView>
     </Grid>
 </Page>

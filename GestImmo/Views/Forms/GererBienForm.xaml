@@ -12,11 +12,12 @@
 
         <Frame Content="" HorizontalAlignment="Left" Height="82" VerticalAlignment="Top" Width="364"/>
 
-        <ComboBox x:Name="cbBoxBien" HorizontalAlignment="Left" Height="28" Margin="10,27,0,0" VerticalAlignment="Top" Width="194" SelectionChanged="cbBoxBien_SelectionChanged">
+        <ComboBox x:Name="cbBoxBien" HorizontalAlignment="Center" Height="28" Margin="0,66,0,0" VerticalAlignment="Top" Width="194" SelectionChanged="cbBoxBien_SelectionChanged">
             <ComboBoxItem Content="Box"/>
             <ComboBoxItem Content="Maison"/>
             <ComboBoxItem Content="Appartement"/>
         </ComboBox>
-        <Frame x:Name="frmAjout" Content="" HorizontalAlignment="Left" Height="314" VerticalAlignment="Center" Width="364" Margin="10,0,0,0" />
+        <Frame x:Name="frmAjout" Content="" HorizontalAlignment="Left" Height="314" VerticalAlignment="Top" Width="364" Margin="10,106,0,0"/>
+        <Label x:Name="lblBiens" Content="Ajouter Un Bien" HorizontalAlignment="Left" Height="35" Margin="136,26,0,0" VerticalAlignment="Top" Width="112" FontWeight="Bold"/>
     </Grid>
 </Page>

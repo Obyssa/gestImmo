@@ -5,16 +5,14 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:GestImmo.Views"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800
-      
-      "
+      d:DesignHeight="550" d:DesignWidth="1000"
       Title="BienView">
 
     <Grid>
-        <Frame x:Name="frmAutre" Content="" HorizontalAlignment="Left" Height="430" Margin="400,20,0,0" VerticalAlignment="Top" Width="390"/>
-        <Frame x:Name="frmList" Content="" HorizontalAlignment="Left" Height="430" Margin="0,20,0,0" VerticalAlignment="Top" Width="390"/>
-        <Label x:Name="lblBiens" Content="Mes Biens" HorizontalAlignment="Left" Height="35" Margin="65,26,0,0" VerticalAlignment="Top" Width="177" FontWeight="Bold"/>
-        <Button x:Name="btnAjouter" Content="Ajouter" HorizontalAlignment="Left" Margin="322,138,0,0" VerticalAlignment="Top" Width="63" Click="btnAjouter_Click" Height="32"/>
+        <Frame x:Name="frmAutre" Content="" HorizontalAlignment="Left" Height="459" Margin="537,0,0,0" VerticalAlignment="Center" Width="453"/>
+        <Frame x:Name="frmList" Content="" HorizontalAlignment="Left" Height="495" Margin="10,45,0,0" VerticalAlignment="Top" Width="453"/>
+        <Label x:Name="lblBiens" Content="Mes Biens" HorizontalAlignment="Left" Height="35" Margin="199,10,0,0" VerticalAlignment="Top" Width="75" FontWeight="Bold"/>
+        <Button x:Name="btnAjouter" Content="Ajouter" HorizontalAlignment="Center" Margin="0,254,0,0" VerticalAlignment="Top" Width="64" Click="btnAjouter_Click" Height="32"/>
 
 
     </Grid>

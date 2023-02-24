@@ -49,6 +49,7 @@ namespace GestImmo.Views.Forms
                 ctx.Biens.Add(unAppart);
                 ctx.SaveChanges();
                 Log.Information("Nouvel appartement crée");
+                
             }
             else
             {

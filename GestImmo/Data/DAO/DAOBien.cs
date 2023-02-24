@@ -13,7 +13,6 @@ namespace GestImmo.Data.DAO
         public List<Bien> getBienAvecPret()
         {
             List<Bien> biens;
-
             GestImmoContext context = GestImmoContext.getInstance();
             var rows = from b in context.Biens
                        where b.Pret != null

@@ -1,6 +1,7 @@
 ﻿using GestImmo.Data.DAL;
 using GestImmo.Data.Models;
 using GestImmo.Models;
+using GestImmo.Views.Forms;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,14 +38,24 @@ namespace GestImmo.Views.SubViews
 
             foreach (Bien bien in ctx.Biens)
             {
-                this.ListView.Items.Add(bien.Nom);
+                this.ListView.Items.Add(bien);
             }
         }
         public void update()
         {
             refreshList();
         }
+        private void ListViewItem_PreviewMouseLeftButtonDown(object sender, MouseButtonEventArgs e) // Afficher info lors d'un click
+        {
+            var item = sender as ListViewItem;
+            if (item != null && item.IsSelected)
+            {
+                ModifierBien objModifierBien = new ModifierBien();
+                this.frmAutre.Navigate(new ModifierBien());
 
-        
+            }
+        }
+
+
     }
 }

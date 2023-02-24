@@ -7,6 +7,7 @@ using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 using Serilog;
+using Microsoft.Extensions.Configuration;
 
 namespace GestImmo.Data.DAL
 {
@@ -23,10 +24,20 @@ namespace GestImmo.Data.DAL
         public DbSet<Intervention> Interventions { get; set; }
 
         public DbSet<Prestataire> Prestataires { get; set; }
-
         
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-       => optionsBuilder.UseNpgsql("Host=localhost;Database=gestImmo;Username=postgres;Password=postgres");
+        {
+            var mdp = System.Environment.GetEnvironmentVariable("mdpbdd" ,EnvironmentVariableTarget.User);
+            var user = System.Environment.GetEnvironmentVariable("utilisateur", EnvironmentVariableTarget.User);
+            var configuration = new ConfigurationBuilder()
+                .AddUserSecrets<GestImmoContext>()
+                .Build();
+            var valeur = configuration["mdp"];
+
+            optionsBuilder.UseNpgsql("Host=localhost;Database=gestImmo;Username=postgres;Password=postgres");
+        }
+        
         
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
