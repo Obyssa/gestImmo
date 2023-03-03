@@ -24,8 +24,19 @@ namespace wpfgestimo.Views.SubViews
         public ListBienView()
         {
             InitializeComponent();
+            this.refreshList();
         }
 
+        void refreshList()
+        {
+            ImmoContext ctx = ImmoContext.getInstance();
+            this.lstBiens.Items.Clear();
+
+            foreach (Bien bien in ctx.Biens)
+            {
+                this.lstBiens.Items.Add(bien);
+            }
+        }
 
         private void lstBiens_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
