@@ -1,4 +1,5 @@
-﻿using System;
+﻿using wpfgestimo.Data.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using wpfgestimo.Views.Forms;
+using wpfgestimo.Views.SubViews;
 
 namespace wpfgestimo.Views
 {
@@ -19,10 +22,27 @@ namespace wpfgestimo.Views
     /// Logique d'interaction pour BienView.xaml
     /// </summary>
     public partial class BienView : Page
-    {
+    {   
+        ImmoContext ctx = ImmoContext.getInstance();
+        private ListBienView ListBienView;
+       
         public BienView()
         {
             InitializeComponent();
+            this.ListBienView = new ListBienView();
+            this.frmList.Navigate(this.ListBienView);
         }
+
+        
+
+
+         private void btnAjouter_Click(object sender, RoutedEventArgs e)
+         {
+             this.frmAutre.Navigate(new GererBienForm((iObserver)this.ListBienView));
+         }
+
+
+
+
     }
 }

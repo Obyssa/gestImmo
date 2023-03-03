@@ -1,0 +1,61 @@
+﻿<Page x:Class="wpfgestimo.Views.Forms.ajouterAppartement"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfgestimo.Views.Forms"
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="400"
+      Title="ajouterAppartement">
+
+    <Grid Margin="10,0,10,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="txtBoxNom" Grid.Row="0" Grid.Column="1" TextWrapping="Wrap" Text="" VerticalAlignment="Center" />
+        <TextBox x:Name="txtBoxValeur" Grid.Row="1" Grid.Column="1" TextWrapping="Wrap" Text="" VerticalAlignment="Center" />
+        <TextBox x:Name="txtBoxAdresse" Grid.Row="2" Grid.Column="1"  TextWrapping="Wrap" Text="" VerticalAlignment="Center" />
+        <TextBox x:Name="txtBoxSurface" Grid.Row="3" Grid.Column="1"  TextWrapping="Wrap" Text="" VerticalAlignment="Center" />
+        <TextBox x:Name="txtBoxPiece" Grid.Row="4" Grid.Column="1" TextWrapping="Wrap" Text="" VerticalAlignment="Center" />
+        <TextBox x:Name="txtBoxChambre" Grid.Row="5" Grid.Column="1" TextWrapping="Wrap" Text="" VerticalAlignment="Center" />
+        <TextBox x:Name="txtBoxCave" Grid.Row="6" Grid.Column="1" TextWrapping="Wrap" Text="" VerticalAlignment="Center" />
+        <TextBox x:Name="txtBoxParking" Grid.Row="7" Grid.Column="1" TextWrapping="Wrap" Text="" VerticalAlignment="Center" />
+        <TextBox x:Name="txtBoxEtage" Grid.Row="8" Grid.Column="1" TextWrapping="Wrap" Text="" VerticalAlignment="Center" />
+        <ComboBox x:Name="cbBoxBien" Grid.Row="9" Grid.Column="1" VerticalAlignment="Center">
+            <ComboBoxItem Content="Oui"/>
+            <ComboBoxItem Content="Non"/>
+        </ComboBox>
+        <ComboBox x:Name="cbBoxAscenseur" Grid.Row="10" Grid.Column="1" VerticalAlignment="Center" >
+            <ComboBoxItem Content="Oui"/>
+            <ComboBoxItem Content="Non"/>
+        </ComboBox>
+        <Label Content="lblNom" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblValeur" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblAdresse" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblSurface" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblPiece" Grid.Row="4" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblChambre" Grid.Row="5" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblCave" Grid.Row="6" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblParking" Grid.Row="7" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblEtage" Grid.Row="8" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblBien" Grid.Row="9" Grid.Column="0" VerticalAlignment="Center"/>
+        <Label Content="lblAscenseur" Grid.Row="10" Grid.Column="0" VerticalAlignment="Center"/>
+        <Button x:Name="btnAjouter"  Grid.Row="11" Grid.Column="1" Content="Ajouter" HorizontalAlignment="Center" VerticalAlignment="center" Click="btnAjouter_Click"/>
+    </Grid>
+</Page>
