@@ -1,5 +1,9 @@
 ﻿
 
-FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\ajouterAppartement.xaml;;
-FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\ajouterBien.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\AppartDetailView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\BoxDetailView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\MaisonDetailView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\SubViews\AfficherBien.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\SubViews\ListBienView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\SubViews\ModifierBien.xaml;;
 

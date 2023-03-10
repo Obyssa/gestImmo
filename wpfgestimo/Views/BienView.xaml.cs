@@ -22,27 +22,26 @@ namespace wpfgestimo.Views
     /// Logique d'interaction pour BienView.xaml
     /// </summary>
     public partial class BienView : Page
-    {   
+    {
         ImmoContext ctx = ImmoContext.getInstance();
         private ListBienView ListBienView;
-       
         public BienView()
         {
             InitializeComponent();
-            this.ListBienView = new ListBienView();
+            this.ListBienView = new ListBienView(frmAutre);
             this.frmList.Navigate(this.ListBienView);
         }
 
+
+
+        private void btnAjouter_Click(object sender, RoutedEventArgs e)
+        {
+            this.frmAutre.Navigate(new GererBienForm((iObserver)this.ListBienView));
+        }
+
+
+
         
-
-
-         private void btnAjouter_Click(object sender, RoutedEventArgs e)
-         {
-             this.frmAutre.Navigate(new GererBienForm((iObserver)this.ListBienView));
-         }
-
-
-
 
     }
 }

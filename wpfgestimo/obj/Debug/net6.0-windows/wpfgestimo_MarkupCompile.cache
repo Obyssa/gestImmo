@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\App.xaml
-141657858965
+16-1753475473
 
-33-1630476610
+35-1684194007
 208608399871
-MainWindow.xaml;Views\BienView.xaml;Views\Forms\ajouterAppartement.xaml;Views\Forms\ajouterBien.xaml;Views\Forms\ajouterMaison.xaml;Views\Forms\AppartDetailView.xaml;Views\Forms\BoxDetailView.xaml;Views\Forms\GererBienForm.xaml;Views\Forms\MaisonDetailView.xaml;Views\HomeView.xaml;Views\NavigationView.xaml;Views\PrestataireView.xaml;Views\PretView.xaml;Views\SubViews\ListBienView.xaml;
+MainWindow.xaml;Views\BienView.xaml;Views\Forms\ajouterAppartement.xaml;Views\Forms\ajouterBien.xaml;Views\Forms\ajouterMaison.xaml;Views\Forms\AppartDetailView.xaml;Views\Forms\BoxDetailView.xaml;Views\Forms\GererBienForm.xaml;Views\Forms\MaisonDetailView.xaml;Views\HomeView.xaml;Views\NavigationView.xaml;Views\PrestataireView.xaml;Views\PretView.xaml;Views\SubViews\AfficherBien.xaml;Views\SubViews\ListBienView.xaml;Views\SubViews\ModifierBien.xaml;
 
-True
+False
 

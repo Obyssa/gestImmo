@@ -30,14 +30,13 @@ namespace wpfgestimo.Data.Models
         public int calculerCapitalRestant()
         {
             DateTime today = DateTime.Today;
-            int diffMois = (today.Year - dateDebut.Year) * 12 + today.Month - dateDebut.Month;
+            int diffMois = ((today.Year - this.dateDebut.Year) * 12) + today.Month - this.dateDebut.Month;
             int capitalRestant = 0;
 
-            if (diffMois < duree)
+            if (diffMois < this.duree)
             {
-                capitalRestant = (duree - diffMois) * mensualite;
+                capitalRestant = (this.duree - diffMois) * mensualite;
             }
-
             return capitalRestant;
         }
     }

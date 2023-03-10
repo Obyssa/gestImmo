@@ -9,11 +9,15 @@
       Title="NavigationView">
 
     <Grid>
-        <Button x:Name="BtnAccueil" Content="Accueil" HorizontalAlignment="Left" Margin="26,10,0,0" VerticalAlignment="Top" Click="BtnAccueil_Click"/>
-        <Button x:Name="BtnBiens" Content="Biens" HorizontalAlignment="Left" Margin="83,10,0,0" VerticalAlignment="Top" Click="BtnBiens_Click"/>
-        <Button x:Name="BtnPrets" Content="Prets" HorizontalAlignment="Left" Margin="133,10,0,0" VerticalAlignment="Top" Click="BtnPrets_Click"/>
-        <Button x:Name="BtnPrestataires" Content="Prestataire" HorizontalAlignment="Left" Margin="179,10,0,0" VerticalAlignment="Top" Click="BtnPrestataires_Click"/>
-        <Frame x:Name="MainFrame" Content="Frame" Margin="10,35,10,10"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="29*"/>
+            <RowDefinition Height="61*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="BtnAccueil" Content="Accueil" HorizontalAlignment="Left" Margin="30,12,0,0" Width="47" VerticalAlignment="Top" Click="BtnAccueil_Click" Height="23"/>
+        <Button x:Name="BtnBiens" Content="Biens" HorizontalAlignment="Left" Height="23" Margin="95,12,0,0" VerticalAlignment="Top" Width="49" Click="BtnBiens_Click"/>
+        <Button x:Name="BtnPrets" Content="Prets" HorizontalAlignment="Left" Margin="164,12,0,0" VerticalAlignment="Top"  Height="23" Width="37"/>
+        <Button x:Name="BtnPresta" Content="Prestataires" HorizontalAlignment="Left" Height="23" Margin="226,12,0,0" VerticalAlignment="Top" Width="68" />
+        <Frame x:Name="frmMain" Content="Frame" Margin="10,45,10,10" Grid.RowSpan="2"/>
 
     </Grid>
 </Page>

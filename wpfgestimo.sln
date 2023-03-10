@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfgestimo", "wpfgestimo\wpfgestimo.csproj", "{FB034263-2629-499F-BC93-CA5333ACA836}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wpfgestimo", "wpfgestimo\wpfgestimo.csproj", "{FB034263-2629-499F-BC93-CA5333ACA836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfgestimoTest", "wpfgestimoTest\wpfgestimoTest.csproj", "{957D3009-4682-4A88-B788-2AE7D7786EE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FB034263-2629-499F-BC93-CA5333ACA836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB034263-2629-499F-BC93-CA5333ACA836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB034263-2629-499F-BC93-CA5333ACA836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957D3009-4682-4A88-B788-2AE7D7786EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957D3009-4682-4A88-B788-2AE7D7786EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957D3009-4682-4A88-B788-2AE7D7786EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957D3009-4682-4A88-B788-2AE7D7786EE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -27,6 +27,29 @@ namespace wpfgestimo.Data.Models
             Surface = surface;
             Bails = new List<Bail>();
         }
+        public int calculerRentabiliteNetMensuel()
+        {
+            int montantPret = 0;
+            int loyer = 0;
+            // Permet de fixer la mesualiter du pret
+            if(this.Pret != null)
+            {
+                montantPret = this.Pret.mensualite;
+            }
+            // Permet de fixer le loyer
+            if(this.Bails.Count > 0)
+            {
+                foreach(Bail bail in this.Bails)
+                {
+                    if(bail.DateFin == null)
+                    {
+                        loyer = bail.Loyer;
+                        break;
+                    }
+                }
+            }
+            return loyer - montantPret;
+        }
     }
 }
 

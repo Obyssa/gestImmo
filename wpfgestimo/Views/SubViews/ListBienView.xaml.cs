@@ -19,14 +19,19 @@ namespace wpfgestimo.Views.SubViews
     /// <summary>
     /// Logique d'interaction pour ListBienView.xaml
     /// </summary>
-    public partial class ListBienView : Page
+    public partial class ListBienView : Page, iObserver
     {
-        public ListBienView()
+        Frame frmAutre;
+        public ListBienView(Frame frmAutre)
         {
+            this.frmAutre = frmAutre;
             InitializeComponent();
             this.refreshList();
         }
-
+        public void update()
+        {
+            refreshList();
+        }
         void refreshList()
         {
             ImmoContext ctx = ImmoContext.getInstance();
@@ -38,14 +43,17 @@ namespace wpfgestimo.Views.SubViews
             }
         }
 
-        private void lstBiens_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void lstBiens_Click(object sender, SelectionChangedEventArgs e)
         {
             ImmoContext ctx = ImmoContext.getInstance();
 
-            foreach (Bien bien in ctx.Biens)
+            Bien theBien = (Bien)(sender as ListBox).SelectedItem;
+            if(theBien is not null)
             {
-                this.lstBiens.Items.Add(bien.Nom);
+                AfficherBien bienDetailView = new AfficherBien(theBien.BienId);
+                this.frmAutre.Navigate(bienDetailView);
             }
-        }
+            
+        }   
     }
 }

@@ -45,7 +45,6 @@ namespace wpfgestimo.Views.Forms
                 ImmoContext ctx = ImmoContext.getInstance();
                 ctx.Biens.Add(unAppart);
                 ctx.SaveChanges();
-                Log.Information("Nouvel appartement crée");
 
             }
             else

@@ -1,0 +1,14 @@
+﻿<Page x:Class="wpfgestimo.Views.SubViews.ModifierBien"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfgestimo.Views.SubViews"
+      mc:Ignorable="d" 
+      d:DesignHeight="430" d:DesignWidth="390"
+      Title="ModifierBien">
+
+    <Grid>
+        <Frame x:Name="frmModify" Content="" HorizontalAlignment="Center" Height="425" Margin="0,5,0,0" VerticalAlignment="Top" Width="380"/>
+    </Grid>
+</Page>

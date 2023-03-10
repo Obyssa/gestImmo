@@ -74,7 +74,6 @@ C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\bin\Debug\net6.0-windows\Npgsql.
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\wpfgestimo.csproj.AssemblyReference.cache
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\BienView.g.cs
-C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.g.cs
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\HomeView.g.cs
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\NavigationView.g.cs
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\PrestataireView.g.cs
@@ -85,7 +84,6 @@ C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\wpfgest
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\wpfgestimo_MarkupCompile.lref
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\MainWindow.baml
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\BienView.baml
-C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.baml
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\HomeView.baml
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\NavigationView.baml
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\PrestataireView.baml
@@ -104,7 +102,19 @@ C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\wpfgest
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\ref\wpfgestimo.dll
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.g.cs
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\ajouterBien.g.cs
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\ajouterAppartement.baml
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\ajouterBien.baml
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.g.cs
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\AppartDetailView.g.cs
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\BoxDetailView.g.cs
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.g.cs
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\ajouterMaison.baml
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\AppartDetailView.baml
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\BoxDetailView.baml
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\GererBienForm.baml
 C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\MaisonDetailView.g.cs
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\Forms\MaisonDetailView.baml
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.g.cs
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\SubViews\ModifierBien.baml
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\SubViews\AfficherBien.g.cs
+C:\Users\m.lapena\Documents\gestImmo\wpfgestimo\obj\Debug\net6.0-windows\Views\SubViews\AfficherBien.baml

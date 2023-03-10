@@ -1,0 +1,16 @@
+﻿<Page x:Class="wpfgestimo.Views.SubViews.AfficherBien"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpfgestimo.Views.SubViews"
+      mc:Ignorable="d" 
+      d:DesignHeight="430" d:DesignWidth="390"
+      Title="AfficherBien">
+
+    <Grid>
+        <Frame x:Name="frmAfficher" Content="" HorizontalAlignment="Center" Height="372" VerticalAlignment="Top" Width="390"/>
+        <Button x:Name="btnModify" Content="Modifier" HorizontalAlignment="Left" Margin="70,388,0,0" VerticalAlignment="Top" Width="99" Click="btnModify_Click" Height="32"/>
+        <Button x:Name="btnSuppr" Content="Supprimer" HorizontalAlignment="Left" Margin="215,388,0,0" VerticalAlignment="Top" Width="99" Click="btnSuppr_Click" Height="32"/>
+    </Grid>
+</Page>

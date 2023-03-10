@@ -38,7 +38,7 @@ namespace wpfgestimo.Views.Forms
                 ImmoContext ctx = ImmoContext.getInstance();
                 ctx.Biens.Add(unbien);
                 ctx.SaveChanges();
-                Log.Information("Nouveau box crée");
+               
             }
             else
             {

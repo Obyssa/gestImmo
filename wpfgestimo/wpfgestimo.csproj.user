@@ -10,6 +10,27 @@
     <Compile Update="Views\BienView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\Forms\ajouterAppartement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\ajouterBien.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\ajouterMaison.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\AppartDetailView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\BoxDetailView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\GererBienForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Forms\MaisonDetailView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\HomeView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -22,7 +43,13 @@
     <Compile Update="Views\PretView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\SubViews\AfficherBien.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\SubViews\ListBienView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SubViews\ModifierBien.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -66,7 +93,13 @@
     <Page Update="Views\PretView.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Views\SubViews\AfficherBien.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Views\SubViews\ListBienView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SubViews\ModifierBien.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -24,27 +24,27 @@ namespace wpfgestimo.Views
         public NavigationView()
         {
             InitializeComponent();
-            this.MainFrame.Navigate(new HomeView());
+            this.frmMain.Navigate(new HomeView());
         }
 
         private void BtnAccueil_Click(object sender, RoutedEventArgs e)
         {
-            this.MainFrame.Navigate(new HomeView());
+            this.frmMain.Navigate(new HomeView());
         }
 
         private void BtnBiens_Click(object sender, RoutedEventArgs e)
         {
-            this.MainFrame.Navigate(new BienView());
+            this.frmMain.Navigate(new BienView());
         }
 
         private void BtnPrets_Click(object sender, RoutedEventArgs e)
         {
-            this.MainFrame.Navigate(new PretView());
+            this.frmMain.Navigate(new PretView());
         }
 
         private void BtnPrestataires_Click(object sender, RoutedEventArgs e)
         {
-            this.MainFrame.Navigate(new PrestataireView());
+            this.frmMain.Navigate(new PrestataireView());
         }
     }
 }

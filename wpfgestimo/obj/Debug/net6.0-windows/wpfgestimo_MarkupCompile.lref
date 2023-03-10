@@ -2,16 +2,18 @@
 
 FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\MainWindow.xaml;;
 FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\BienView.xaml;;
-FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\GererBienForm.xaml;;
-FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\HomeView.xaml;;
-FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\NavigationView.xaml;;
-FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\PrestataireView.xaml;;
-FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\PretView.xaml;;
-FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\SubViews\ListBienView.xaml;;
 FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\ajouterAppartement.xaml;;
 FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\ajouterBien.xaml;;
 FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\ajouterMaison.xaml;;
 FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\AppartDetailView.xaml;;
 FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\BoxDetailView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\GererBienForm.xaml;;
 FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\Forms\MaisonDetailView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\HomeView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\NavigationView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\PrestataireView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\PretView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\SubViews\ListBienView.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\SubViews\ModifierBien.xaml;;
+FC:\Users\m.lapena\Documents\gestImmo\wpfgestimo\Views\SubViews\AfficherBien.xaml;;
 

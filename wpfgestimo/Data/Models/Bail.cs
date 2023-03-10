@@ -11,7 +11,7 @@ namespace wpfgestimo.Data.Models
 
         public DateTime DateDebut { get; set; }
 
-        public DateTime DateFin { get; set; }
+        public DateTime? DateFin { get; set; }
 
         public List<Locataire> Locataires { get; set; }
 
@@ -20,7 +20,7 @@ namespace wpfgestimo.Data.Models
 
         }
 
-        public Bail(int loyer, DateTime dateDebut, DateTime dateFin)
+        public Bail(int loyer, DateTime dateDebut, DateTime? dateFin)
         {
             Loyer = loyer;
             DateDebut = dateDebut;
