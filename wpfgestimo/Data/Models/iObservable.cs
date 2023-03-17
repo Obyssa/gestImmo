@@ -12,7 +12,6 @@ namespace wpfgestimo.Data.Models
 
         void notifyObservers()
         {
-
             foreach (iObserver obs in Observers)
             {
                 obs.update();
